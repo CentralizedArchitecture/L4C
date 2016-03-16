@@ -1,7 +1,0 @@
-name 'bb_elasticsearch'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'all_rights'
-description 'Installs/Configures bb_elasticsearch'
-long_description 'Installs/Configures bb_elasticsearch'
-version '0.1.0'

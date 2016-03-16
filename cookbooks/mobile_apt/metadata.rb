@@ -1,7 +1,0 @@
-name 'mobile_apt'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'all_rights'
-description 'Installs/Configures mobile_apt'
-long_description 'Installs/Configures mobile_apt'
-version '0.1.0'
